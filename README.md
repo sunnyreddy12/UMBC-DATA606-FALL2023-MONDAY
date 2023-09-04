@@ -1,4 +1,3 @@
-# UMBC-DATA606-FALL2023-MONDAY
 
 # RESUME
 ![Purushotham's Profile Picture](./purush.jpeg)
